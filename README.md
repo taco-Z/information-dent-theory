@@ -1,6 +1,6 @@
 # Information Dent Theory
 
-## Category
+## ■ Category
 
 Theoretical Framework / Conceptual Model
 
