@@ -1,8 +1,8 @@
-# Information Potential Theory
+# Information Dent Theory
 
 ## ■ Overview
 
-Information Potential Theory proposes that integrated structures of information generate potentials (depressions) in space, and these potentials manifest as physical phenomena such as gravity.
+Information Dent Theory proposes that integrated structures of information generate potentials (depressions) in space, and these potentials manifest as physical phenomena such as gravity.
 As the universe expands, it continuously creates unstructured regions, which are then filled through increasing information integration and complexity.
 
 ---
