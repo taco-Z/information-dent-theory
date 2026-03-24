@@ -1,5 +1,9 @@
 # Information Dent Theory
 
+## Category
+
+Theoretical Framework / Conceptual Model
+
 ## ■ Overview
 
 Information Dent Theory proposes that integrated structures of information generate potentials (depressions) in space, and these potentials manifest as physical phenomena such as gravity.
