@@ -1,4 +1,4 @@
-# Information Potential Theory — Core Equations
+# Information Dent Theory — Core Equations
 
 ## 1. Integrated Information Density
 
