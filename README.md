@@ -9,6 +9,8 @@ Theoretical Framework / Conceptual Model
 Information Dent Theory proposes that integrated structures of information generate potentials (depressions) in space, and these potentials manifest as physical phenomena such as gravity.
 As the universe expands, it continuously creates unstructured regions, which are then filled through increasing information integration and complexity.
 
+[Download Paper (PDF)](information_dent_theory_final.pdf)
+
 ---
 
 ## ■ Notation
