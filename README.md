@@ -11,6 +11,12 @@ As the universe expands, it continuously creates unstructured regions, which are
 
 ---
 
+## ■ Notation
+- d_i(t): dent depth at node i
+- w_ij: connection strength between nodes
+
+---
+
 ## ■ Fundamental Definitions
 
 ### ● Node
@@ -165,6 +171,12 @@ when dents persist and reinforce one another through the network.
 ```
 
 One tiny warning: GitHub README does **not always render LaTeX nicely** depending on syntax and view, so plain text fallback may be useful too.
+
+---
+
+## ■ Core Claim
+Information that leaves persistent structural traces (dents)
+drives the emergence of complexity in networked systems.
 
 ---
 
